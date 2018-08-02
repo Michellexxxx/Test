@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<grade> 
+  <class name="1班"> 
+    <student id="1">小黑1</student>  
+    <student id="2">小黑黑</student> 
+  </class>  
+  <class name="2班"> 
+    <student id="1">小白1</student>  
+    <student id="2">小白2</student> 
+  </class> 
+</grade>
